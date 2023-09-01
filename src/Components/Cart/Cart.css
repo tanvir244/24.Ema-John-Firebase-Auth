@@ -1,0 +1,23 @@
+.cart{
+    border: 1px solid lightgray;
+    margin-top: 5px;
+    /* width: 250px; */
+    /* margin-left: 25px; */
+    /* padding-left: 30px; */
+}
+.cart h2, .cart h4{
+    text-align: center;
+}
+.cart h3{
+    color: #b12704;
+}
+.cart p, .cart h3{
+    padding-left: 10px;
+}
+.review-button{
+    background: goldenrod;
+    margin: 10px 25px;
+    padding: 5px 20px;
+    border: 1px solid black;
+    border-radius: 2px;
+}

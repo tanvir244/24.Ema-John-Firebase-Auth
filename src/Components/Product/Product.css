@@ -1,0 +1,20 @@
+.product{
+    display: flex;
+    padding: 15px 0px;
+    border-bottom: 1px solid lightgray;
+}
+.productContent{
+    padding: 0px 30px;
+}
+.main-button{
+    background-color: goldenrod;
+    padding: 5px 30px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.main-button:hover{
+    border: 1px solid black;
+}
+.main-button span{
+    margin-right: 10px;
+}
